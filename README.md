@@ -1,4 +1,4 @@
-### Hi there 👋
+### Maicon Henrique ⚡
 
 <!--
 **maiconkcond/maiconkcond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconkcond&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkcond&theme=tokyonight" />
+</a>
+
+![Snake animation](https://github.com/rafaballerini/maiconkcond/blob/output/github-contribution-grid-snake.svg)
+

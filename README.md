@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconkcond&theme=tokyonight" />
+  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconkcond&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkcond&theme=tokyonight" />
+  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkcond&theme=tokyonight" />
 </a>
 
-![Snake animation](https://github.com/rafaballerini/maiconkcond/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maiconkcond/maiconkcond/blob/output/github-contribution-grid-snake.svg)
 
